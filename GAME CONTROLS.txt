@@ -1,0 +1,6 @@
+A for left D for right
+Left mouse button for attack
+E for all interactions with objects
+Space for jump
+Space  +  Left mouse button for Air Attack
+E to skip dialogue
