@@ -1,5 +1,5 @@
 # Hyperion - The Stranded Adventurer
-A small little game i threw together for design championship 2019 
+The theme for the contest was - "Build a game to discover life beneath the surface"
 ## Screenshots
 ![alt text](https://i.imgur.com/cFGZye4.png)
 ![alt text](https://i.imgur.com/S70XAFk.png)
